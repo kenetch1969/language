@@ -49,6 +49,7 @@
 		4253468C21B4198C0034101D /* 12-Subscripts.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "12-Subscripts.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4253468D21B4198C0034101D /* 13-Inheritance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "13-Inheritance.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4253468E21B424DE0034101D /* Codeable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Codeable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4253469121B42ADC0034101D /* Delegate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Delegate.playground; path = playground/Delegate.playground; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +67,6 @@
 			isa = PBXGroup;
 			children = (
 				420D4AC221B097D500580200 /* playground */,
-				420D4AAF21B097C000580200 /* language */,
 				420D4AAE21B097C000580200 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -120,8 +120,10 @@
 				4253467E21B4198B0034101D /* 23-Generics.playground */,
 				4253468521B4198B0034101D /* 24-AccessControl.playground */,
 				4253468B21B4198C0034101D /* 25-AdvancedOperators.playground */,
+				4253469021B42A800034101D /* Delegate */,
 				420D4AC521B09A0700580200 /* Collection */,
 				4253468F21B424ED0034101D /* Codeable */,
+				420D4AAF21B097C000580200 /* language */,
 			);
 			path = playground;
 			sourceTree = "<group>";
@@ -140,6 +142,14 @@
 				4253468E21B424DE0034101D /* Codeable.playground */,
 			);
 			path = Codeable;
+			sourceTree = "<group>";
+		};
+		4253469021B42A800034101D /* Delegate */ = {
+			isa = PBXGroup;
+			children = (
+				4253469121B42ADC0034101D /* Delegate.playground */,
+			);
+			path = Delegate;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
