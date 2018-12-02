@@ -49,7 +49,7 @@
 		4253468C21B4198C0034101D /* 12-Subscripts.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "12-Subscripts.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4253468D21B4198C0034101D /* 13-Inheritance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "13-Inheritance.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4253468E21B424DE0034101D /* Codeable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Codeable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		4253469121B42ADC0034101D /* Delegate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Delegate.playground; path = playground/Delegate.playground; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4253469221B42BCD0034101D /* Delegate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Delegate.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,7 +147,7 @@
 		4253469021B42A800034101D /* Delegate */ = {
 			isa = PBXGroup;
 			children = (
-				4253469121B42ADC0034101D /* Delegate.playground */,
+				4253469221B42BCD0034101D /* Delegate.playground */,
 			);
 			path = Delegate;
 			sourceTree = "<group>";
