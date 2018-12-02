@@ -22,6 +22,33 @@
 		420D4AB721B097C800580200 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		420D4ABA21B097C800580200 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		420D4ABC21B097C800580200 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		420D4AC321B0983A00580200 /* 01-TheBasics.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "01-TheBasics.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		420D4AC421B098D800580200 /* 04-CollectionTypes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "04-CollectionTypes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		420D4AC621B09A3F00580200 /* CollectionGuide.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CollectionGuide.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4253467721B4198A0034101D /* 11-Methods.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11-Methods.playground"; sourceTree = "<group>"; };
+		4253467821B4198A0034101D /* 14-Initialization.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14-Initialization.playground"; sourceTree = "<group>"; };
+		4253467921B4198A0034101D /* 16-AutomaticReferenceCounting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "16-AutomaticReferenceCounting.playground"; sourceTree = "<group>"; };
+		4253467A21B4198A0034101D /* 06-Functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "06-Functions.playground"; sourceTree = "<group>"; };
+		4253467B21B4198A0034101D /* 20-NestedTypes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "20-NestedTypes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4253467C21B4198A0034101D /* 22-Protocols.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "22-Protocols.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4253467D21B4198B0034101D /* 03-StringsAndCharacters.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "03-StringsAndCharacters.playground"; sourceTree = "<group>"; };
+		4253467E21B4198B0034101D /* 23-Generics.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "23-Generics.playground"; sourceTree = "<group>"; };
+		4253467F21B4198B0034101D /* 18-ErrorHandling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "18-ErrorHandling.playground"; sourceTree = "<group>"; };
+		4253468021B4198B0034101D /* 17-OptionalChaining.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "17-OptionalChaining.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4253468121B4198B0034101D /* 08-Enumerations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "08-Enumerations.playground"; sourceTree = "<group>"; };
+		4253468221B4198B0034101D /* 02-BasicOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "02-BasicOperators.playground"; sourceTree = "<group>"; };
+		4253468321B4198B0034101D /* 15-Deinitialization.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "15-Deinitialization.playground"; sourceTree = "<group>"; };
+		4253468421B4198B0034101D /* 21-Extensions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "21-Extensions.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4253468521B4198B0034101D /* 24-AccessControl.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "24-AccessControl.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4253468621B4198B0034101D /* 10-Properties.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "10-Properties.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4253468721B4198B0034101D /* 09-ClassesAndStructures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "09-ClassesAndStructures.playground"; sourceTree = "<group>"; };
+		4253468821B4198B0034101D /* 05-ControlFlow.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "05-ControlFlow.playground"; sourceTree = "<group>"; };
+		4253468921B4198C0034101D /* 07-Closures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "07-Closures.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4253468A21B4198C0034101D /* 19-TypeCasting.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "19-TypeCasting.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4253468B21B4198C0034101D /* 25-AdvancedOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "25-AdvancedOperators.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4253468C21B4198C0034101D /* 12-Subscripts.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "12-Subscripts.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4253468D21B4198C0034101D /* 13-Inheritance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "13-Inheritance.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4253468E21B424DE0034101D /* Codeable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Codeable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +65,7 @@
 		420D4AA421B097C000580200 = {
 			isa = PBXGroup;
 			children = (
+				420D4AC221B097D500580200 /* playground */,
 				420D4AAF21B097C000580200 /* language */,
 				420D4AAE21B097C000580200 /* Products */,
 			);
@@ -62,6 +90,56 @@
 				420D4ABC21B097C800580200 /* Info.plist */,
 			);
 			path = language;
+			sourceTree = "<group>";
+		};
+		420D4AC221B097D500580200 /* playground */ = {
+			isa = PBXGroup;
+			children = (
+				420D4AC321B0983A00580200 /* 01-TheBasics.playground */,
+				4253468221B4198B0034101D /* 02-BasicOperators.playground */,
+				4253467D21B4198B0034101D /* 03-StringsAndCharacters.playground */,
+				420D4AC421B098D800580200 /* 04-CollectionTypes.playground */,
+				4253468821B4198B0034101D /* 05-ControlFlow.playground */,
+				4253467A21B4198A0034101D /* 06-Functions.playground */,
+				4253468921B4198C0034101D /* 07-Closures.playground */,
+				4253468121B4198B0034101D /* 08-Enumerations.playground */,
+				4253468721B4198B0034101D /* 09-ClassesAndStructures.playground */,
+				4253468621B4198B0034101D /* 10-Properties.playground */,
+				4253467721B4198A0034101D /* 11-Methods.playground */,
+				4253468C21B4198C0034101D /* 12-Subscripts.playground */,
+				4253468D21B4198C0034101D /* 13-Inheritance.playground */,
+				4253467821B4198A0034101D /* 14-Initialization.playground */,
+				4253468321B4198B0034101D /* 15-Deinitialization.playground */,
+				4253467921B4198A0034101D /* 16-AutomaticReferenceCounting.playground */,
+				4253468021B4198B0034101D /* 17-OptionalChaining.playground */,
+				4253467F21B4198B0034101D /* 18-ErrorHandling.playground */,
+				4253468A21B4198C0034101D /* 19-TypeCasting.playground */,
+				4253467B21B4198A0034101D /* 20-NestedTypes.playground */,
+				4253468421B4198B0034101D /* 21-Extensions.playground */,
+				4253467C21B4198A0034101D /* 22-Protocols.playground */,
+				4253467E21B4198B0034101D /* 23-Generics.playground */,
+				4253468521B4198B0034101D /* 24-AccessControl.playground */,
+				4253468B21B4198C0034101D /* 25-AdvancedOperators.playground */,
+				420D4AC521B09A0700580200 /* Collection */,
+				4253468F21B424ED0034101D /* Codeable */,
+			);
+			path = playground;
+			sourceTree = "<group>";
+		};
+		420D4AC521B09A0700580200 /* Collection */ = {
+			isa = PBXGroup;
+			children = (
+				420D4AC621B09A3F00580200 /* CollectionGuide.playground */,
+			);
+			path = Collection;
+			sourceTree = "<group>";
+		};
+		4253468F21B424ED0034101D /* Codeable */ = {
+			isa = PBXGroup;
+			children = (
+				4253468E21B424DE0034101D /* Codeable.playground */,
+			);
+			path = Codeable;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
